@@ -1,0 +1,11 @@
+id,nom,number_hospitals,access_water
+1,Atlantique,25,Yes
+2,Couffo,10,Yes
+3,Borgou,20,Yes
+4,Oueme,15,No
+5,Littoral,30,Yes
+6,Alibori,10,No
+7,Plateau,10,No
+8,Collines,15,Yes
+9,Zou,10,Yes
+10,Donga,5,No

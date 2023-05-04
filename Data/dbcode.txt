@@ -1,0 +1,58 @@
+// Use DBML to define your database structure
+// Docs: https://www.dbml.org/docs
+
+
+Table Evenement {
+  id integer [primary key]
+  code_patient integer
+  code_sageFemme integer
+  code_region integer
+  date timestamp
+  nombre_enfants integer
+  condition string 
+  time_intevention integer
+  etat_sanitaire string
+  created_at timestamp
+}
+
+Table Region {
+  id integer [primary key]
+  nom string 
+  number_hospitals integer
+  access_water string
+  created_at timestamp
+}
+
+Table Sage_Femme {
+  id integer [ primary key]
+  name string
+  age integer
+  level_education string
+  code_staff integer 
+  code_region integer 
+  created_at timestamp
+}
+
+Table Patient {
+  id integer [primary key]
+  name string
+  age integer
+  nombre_enfants integer
+  created_at timestamp
+}
+
+Table Staff {
+  id integer [primary key]
+  level_education string 
+  created_at timestamp
+}
+
+Ref: Evenement.code_patient > Patient.id
+
+Ref: Evenement.code_sageFemme > Sage_Femme.id
+
+Ref: Evenement.code_region > Region.id
+
+Ref: Sage_Femme.code_region > Region.id
+
+Ref: Sage_Femme.code_staff > Staff.id
