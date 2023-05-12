@@ -1,31 +1,31 @@
 id,code_patient,code_sageFemme,code_region,date,nombre_enfants,condition,time_intervention,hygiene,created_at
-1,12,8,10,2020-06-08,4,Travail obstrué,116,Excellent,2020-03-16
-2,15,25,5,2020-06-09,3,Hémorragie du post-partum,102,Poor,2020-09-29
-3,4,28,11,2020-07-04,5,Infections,44,Poor,2020-09-08
-4,14,7,8,2020-11-25,0,Troubles hypertensifs (Préexistants),107,Excellent,2020-11-13
-5,22,8,7,2020-02-12,3,Avortement non sécurisé,92,Fair,2020-11-29
-6,26,25,9,2020-11-03,3,Travail obstrué,39,Fair,2020-01-14
-7,28,28,11,2020-01-18,3,Travail obstrué,54,Excellent,2020-09-30
-8,14,25,1,2020-10-11,3,Hémorragie du post-partum,10,Good,2020-07-18
-9,24,22,11,2020-11-29,2,Rupture de l'utérus,106,Fair,2020-02-27
-10,5,10,1,2020-02-22,4,Hémorragie du post-partum,15,Satisfactory,2020-07-07
-11,18,3,3,2020-04-02,3,Avortement non sécurisé,91,Poor,2020-01-17
-12,30,21,3,2020-04-14,0,Prééclampsie/Éclampsie,29,Fair,2020-04-03
-13,27,21,12,2020-06-12,0,Travail obstrué,87,Excellent,2020-06-17
-14,9,4,10,2020-10-13,2,Maladies préexistantes,82,Satisfactory,2020-09-16
-15,2,26,6,2020-12-09,0,Travail obstrué,48,Excellent,2020-11-19
-16,24,8,12,2020-03-06,2,Prééclampsie/Éclampsie,110,Fair,2020-08-24
-17,13,14,11,2020-04-28,2,Prééclampsie/Éclampsie,18,Good,2020-08-14
-18,22,13,11,2020-11-08,3,Infections,117,Fair,2020-03-18
-19,23,29,2,2020-03-09,0,Infections,84,Poor,2020-10-13
-20,29,5,7,2020-07-08,4,Troubles hypertensifs (Préexistants),19,Excellent,2020-03-04
-21,30,18,1,2020-05-27,0,Travail obstrué,39,Satisfactory,2020-01-21
-22,17,15,10,2020-09-19,0,Prééclampsie/Éclampsie,65,Satisfactory,2020-04-30
-23,12,17,9,2020-10-22,0,Infections,61,Fair,2020-04-27
-24,25,7,12,2020-04-11,5,Prééclampsie/Éclampsie,104,Excellent,2020-08-06
-25,20,22,12,2020-01-13,0,Maladies préexistantes,25,Good,2020-02-10
-26,9,13,5,2020-02-22,5,Avortement non sécurisé,62,Satisfactory,2020-07-27
-27,19,6,5,2020-06-20,2,Prééclampsie/Éclampsie,45,Excellent,2020-03-26
-28,6,25,12,2020-10-03,3,Avortement non sécurisé,92,Poor,2020-10-22
-29,2,23,10,2020-01-11,5,Avortement non sécurisé,16,Good,2020-07-04
-30,14,2,1,2020-05-18,5,Hémorragie du post-partum,52,Fair,2020-09-07
+1,17,22,12,2020-08-05,3,Hémorragie du post-partum,39,Good,2020-12-09
+2,8,6,11,2020-10-10,1,Troubles hypertensifs (Préexistants),88,Fair,2020-02-12
+3,24,6,12,2020-05-31,4,Infections,57,Fair,2020-02-22
+4,9,21,2,2020-12-16,0,Prééclampsie/Éclampsie,71,Good,2020-04-19
+5,16,14,6,2020-12-03,4,Maladies préexistantes,61,Poor,2020-04-24
+6,17,1,8,2020-02-29,5,Infections,24,Good,2020-08-25
+7,25,4,12,2020-12-15,4,Prééclampsie/Éclampsie,36,Satisfactory,2020-09-28
+8,16,17,4,2020-05-30,5,Troubles hypertensifs (Préexistants),33,Poor,2020-04-07
+9,4,11,6,2020-08-07,5,Troubles hypertensifs (Préexistants),119,Poor,2020-04-09
+10,4,1,10,2020-04-19,3,Infections,32,Excellent,2020-06-16
+11,18,3,3,2020-08-05,2,Avortement non sécurisé,42,Poor,2020-07-03
+12,6,30,1,2020-06-18,5,Troubles hypertensifs (Préexistants),84,Good,2020-05-02
+13,24,1,9,2020-05-03,2,Avortement non sécurisé,43,Fair,2020-07-01
+14,2,5,8,2020-08-10,1,Maladies préexistantes,103,Good,2020-09-13
+15,19,2,1,2020-08-17,2,Avortement non sécurisé,102,Poor,2020-03-03
+16,23,6,3,2020-11-18,4,Troubles hypertensifs (Préexistants),108,Poor,2020-12-21
+17,24,29,1,2020-05-13,2,Rupture de l'utérus,30,Poor,2020-01-22
+18,23,3,9,2020-04-26,4,Hémorragie du post-partum,16,Fair,2020-09-23
+19,5,28,12,2020-12-07,3,Maladies préexistantes,102,Satisfactory,2020-08-10
+20,2,1,5,2020-01-06,0,Troubles hypertensifs (Préexistants),11,Poor,2020-12-10
+21,3,22,10,2020-12-04,1,Travail obstrué,11,Poor,2020-09-09
+22,12,6,12,2020-05-25,4,Maladies préexistantes,31,Satisfactory,2020-09-07
+23,13,25,7,2020-10-20,1,Avortement non sécurisé,76,Excellent,2020-11-09
+24,7,17,9,2020-01-29,5,Prééclampsie/Éclampsie,52,Satisfactory,2020-10-08
+25,19,14,10,2020-02-23,0,Troubles hypertensifs (Préexistants),99,Fair,2020-04-20
+26,6,17,7,2020-02-19,3,Infections,92,Poor,2020-04-30
+27,17,26,10,2020-10-25,1,Travail obstrué,19,Good,2020-03-06
+28,23,19,3,2020-10-21,4,Prééclampsie/Éclampsie,48,Good,2020-06-24
+29,17,25,7,2020-08-03,4,Avortement non sécurisé,34,Fair,2020-06-14
+30,15,19,10,2020-05-26,1,Rupture de l'utérus,98,Excellent,2020-08-28
