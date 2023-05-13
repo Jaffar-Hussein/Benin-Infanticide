@@ -3,6 +3,9 @@
 ## Overview
 This project aims to predict maternal mortality rates in Benin using a regression model. The model takes into account factors such as the number of sage femmes per 10,000 inhabitants, the number of hospitals, and whether the region has access to water.
 
+
+<img width="1392" alt="Screenshot 2023-05-13 at 19 36 54" src="https://github.com/Jaffar-Hussein/Benin_Infanticide/assets/57854451/49df03e8-b47e-404b-a5b5-64791d2585ac">
+
 ## Data
 The data used in this project includes information on the number of sage femmes per 10,000 inhabitants, the number of hospitals, and whether each region has access to water. This data was collected from various sources and preprocessed to prepare it for use in the machine learning model.
 
