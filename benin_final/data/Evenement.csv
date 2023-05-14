@@ -1,31 +1,31 @@
 id,code_patient,code_sageFemme,code_region,date,nombre_enfants,condition,time_intervention,hygiene,created_at
-1,17,22,12,2020-08-05,3,Hémorragie du post-partum,39,Good,2020-12-09
-2,8,6,11,2020-10-10,1,Troubles hypertensifs (Préexistants),88,Fair,2020-02-12
-3,24,6,12,2020-05-31,4,Infections,57,Fair,2020-02-22
-4,9,21,2,2020-12-16,0,Prééclampsie/Éclampsie,71,Good,2020-04-19
-5,16,14,6,2020-12-03,4,Maladies préexistantes,61,Poor,2020-04-24
-6,17,1,8,2020-02-29,5,Infections,24,Good,2020-08-25
-7,25,4,12,2020-12-15,4,Prééclampsie/Éclampsie,36,Satisfactory,2020-09-28
-8,16,17,4,2020-05-30,5,Troubles hypertensifs (Préexistants),33,Poor,2020-04-07
-9,4,11,6,2020-08-07,5,Troubles hypertensifs (Préexistants),119,Poor,2020-04-09
-10,4,1,10,2020-04-19,3,Infections,32,Excellent,2020-06-16
-11,18,3,3,2020-08-05,2,Avortement non sécurisé,42,Poor,2020-07-03
-12,6,30,1,2020-06-18,5,Troubles hypertensifs (Préexistants),84,Good,2020-05-02
-13,24,1,9,2020-05-03,2,Avortement non sécurisé,43,Fair,2020-07-01
-14,2,5,8,2020-08-10,1,Maladies préexistantes,103,Good,2020-09-13
-15,19,2,1,2020-08-17,2,Avortement non sécurisé,102,Poor,2020-03-03
-16,23,6,3,2020-11-18,4,Troubles hypertensifs (Préexistants),108,Poor,2020-12-21
-17,24,29,1,2020-05-13,2,Rupture de l'utérus,30,Poor,2020-01-22
-18,23,3,9,2020-04-26,4,Hémorragie du post-partum,16,Fair,2020-09-23
-19,5,28,12,2020-12-07,3,Maladies préexistantes,102,Satisfactory,2020-08-10
-20,2,1,5,2020-01-06,0,Troubles hypertensifs (Préexistants),11,Poor,2020-12-10
-21,3,22,10,2020-12-04,1,Travail obstrué,11,Poor,2020-09-09
-22,12,6,12,2020-05-25,4,Maladies préexistantes,31,Satisfactory,2020-09-07
-23,13,25,7,2020-10-20,1,Avortement non sécurisé,76,Excellent,2020-11-09
-24,7,17,9,2020-01-29,5,Prééclampsie/Éclampsie,52,Satisfactory,2020-10-08
-25,19,14,10,2020-02-23,0,Troubles hypertensifs (Préexistants),99,Fair,2020-04-20
-26,6,17,7,2020-02-19,3,Infections,92,Poor,2020-04-30
-27,17,26,10,2020-10-25,1,Travail obstrué,19,Good,2020-03-06
-28,23,19,3,2020-10-21,4,Prééclampsie/Éclampsie,48,Good,2020-06-24
-29,17,25,7,2020-08-03,4,Avortement non sécurisé,34,Fair,2020-06-14
-30,15,19,10,2020-05-26,1,Rupture de l'utérus,98,Excellent,2020-08-28
+1,25,22,1,2020-08-03,2,Rupture de l'utérus,17,Fair,2020-02-04
+2,28,8,11,2020-05-08,5,Prééclampsie/Éclampsie,90,Good,2020-09-26
+3,9,8,5,2020-05-29,2,Avortement non sécurisé,32,Good,2020-09-30
+4,21,12,9,2020-04-20,3,Travail obstrué,89,Satisfactory,2020-06-22
+5,5,23,5,2020-02-02,5,Prééclampsie/Éclampsie,99,Good,2020-05-25
+6,17,18,4,2020-08-03,2,Maladies préexistantes,18,Excellent,2020-12-13
+7,26,7,4,2020-09-18,3,Hémorragie du post-partum,109,Fair,2020-09-18
+8,4,8,9,2020-05-19,4,Infections,16,Satisfactory,2020-02-02
+9,8,19,9,2020-07-11,4,Travail obstrué,91,Satisfactory,2020-03-30
+10,29,29,12,2020-12-13,2,Travail obstrué,81,Poor,2020-06-26
+11,4,12,12,2020-10-07,5,Travail obstrué,94,Poor,2020-09-15
+12,19,20,8,2020-05-11,1,Travail obstrué,99,Poor,2020-07-20
+13,30,18,1,2020-07-15,2,Prééclampsie/Éclampsie,76,Satisfactory,2020-11-27
+14,18,10,4,2020-07-27,5,Avortement non sécurisé,70,Good,2020-07-10
+15,2,30,9,2020-12-02,0,Maladies préexistantes,26,Fair,2020-03-10
+16,19,15,8,2020-02-12,3,Prééclampsie/Éclampsie,66,Good,2020-07-29
+17,18,22,8,2020-05-23,0,Troubles hypertensifs (Préexistants),119,Poor,2020-07-22
+18,30,10,11,2020-08-10,2,Prééclampsie/Éclampsie,33,Fair,2020-11-11
+19,21,26,2,2020-08-31,4,Travail obstrué,34,Satisfactory,2020-03-30
+20,30,19,9,2020-01-18,3,Travail obstrué,14,Fair,2020-02-18
+21,3,1,5,2020-05-27,2,Maladies préexistantes,110,Excellent,2020-04-26
+22,6,28,8,2020-03-28,1,Rupture de l'utérus,118,Satisfactory,2020-05-13
+23,6,10,1,2020-06-20,2,Infections,59,Fair,2020-06-23
+24,13,29,12,2020-12-17,1,Hémorragie du post-partum,97,Excellent,2020-06-21
+25,13,12,5,2020-05-30,4,Infections,40,Poor,2020-10-03
+26,22,18,10,2020-10-21,5,Avortement non sécurisé,64,Excellent,2020-07-24
+27,30,10,1,2020-03-08,1,Infections,35,Poor,2020-07-22
+28,3,27,11,2020-09-27,0,Rupture de l'utérus,30,Poor,2020-05-20
+29,16,1,7,2020-04-19,5,Avortement non sécurisé,107,Fair,2020-11-29
+30,28,23,5,2020-05-25,0,Infections,111,Poor,2020-07-26
