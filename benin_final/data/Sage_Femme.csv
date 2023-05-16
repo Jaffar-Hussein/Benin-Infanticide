@@ -1,31 +1,31 @@
-id,code_staff,code_region,nom,level_education,hygiene,years_experience,history_complications
-1,1,8,Kadiatou,without,Poor,12,12
-2,2,6,Kpatcha,postbac,Excellent,3,17
-3,3,10,Chantal,postbac,Poor,17,22
-4,4,1,Zouleya,postbac,Satisfactory,1,15
-5,5,11,Bibi,bac,Satisfactory,1,17
-6,6,3,Djamila,primary/secondaire,Good,7,23
-7,7,12,Chantal,without,Satisfactory,15,22
-8,8,11,Aziza,diplomé d'etat,Excellent,11,20
-9,9,8,Fifi,primary/secondaire,Fair,9,2
-10,10,12,Kpatcha,without,Poor,14,9
-11,11,3,Odile,postbac,Excellent,3,1
-12,12,10,Kpatcha,without,Poor,4,5
-13,13,3,Assibi,diplomé d'etat,Poor,3,7
-14,14,4,Assibi,postbac,Satisfactory,12,22
-15,15,12,Kadiatou,primary/secondaire,Excellent,14,14
-16,16,4,Alimatou,primary/secondaire,Fair,17,8
-17,17,3,Kankan,diplomé d'etat,Fair,9,16
-18,18,4,Chantal,primary/secondaire,Good,9,10
-19,19,5,Aminatou,diplomé d'etat,Fair,9,19
-20,20,2,Djamila,bac,Good,3,9
-21,21,3,Chantal,diplomé d'etat,Poor,4,23
-22,22,12,Djeneba,postbac,Poor,13,16
-23,23,10,Aminatou,primary/secondaire,Good,15,12
-24,24,11,Koudjoukou,diplomé d'etat,Excellent,1,7
-25,25,2,Aminatou,primary/secondaire,Poor,5,16
-26,26,5,Kankan,postbac,Good,4,2
-27,27,11,Akissi,without,Good,14,23
-28,28,7,Kankan,bac,Excellent,12,13
-29,29,12,Alimatou,without,Satisfactory,14,4
-30,30,9,Aziza,primary/secondaire,Excellent,14,19
+id,code_region,nom,level_education,hygiene,years_experience,history_complications
+1,4,Djeneba,postbac,Excellent,18,11
+2,1,Kpatcha,without,Excellent,14,6
+3,9,Larissa,postbac,Satisfactory,5,13
+4,1,Koudjoukou,diplomé d'etat,Poor,12,9
+5,1,Kpatcha,bac,Fair,2,6
+6,9,Aminatou,bac,Poor,13,12
+7,2,Koudjoukou,bac,Good,8,4
+8,5,Djeneba,diplomé d'etat,Excellent,16,9
+9,4,Bibi,postbac,Excellent,1,20
+10,3,Esther,primary/secondaire,Good,3,1
+11,3,Bibi,diplomé d'etat,Satisfactory,11,6
+12,8,Lala,diplomé d'etat,Satisfactory,4,4
+13,7,Lala,without,Satisfactory,11,6
+14,5,Kessia,postbac,Fair,6,7
+15,4,Aminatou,postbac,Good,18,7
+16,9,Odile,bac,Good,12,5
+17,10,Akissi,without,Fair,11,20
+18,5,Akissi,primary/secondaire,Satisfactory,8,13
+19,11,Kessia,without,Poor,7,10
+20,3,Adjoua,postbac,Poor,15,4
+21,3,Fifi,without,Excellent,1,22
+22,4,Aminatou,bac,Excellent,4,13
+23,11,Koudjoukou,diplomé d'etat,Fair,13,17
+24,11,Chantal,primary/secondaire,Fair,11,12
+25,8,Fanta,primary/secondaire,Good,3,19
+26,4,Djeneba,postbac,Poor,19,14
+27,2,Zouleya,bac,Fair,5,18
+28,2,Nadège,primary/secondaire,Poor,14,24
+29,6,Hafsatou,postbac,Good,13,7
+30,5,Esther,primary/secondaire,Good,7,15
